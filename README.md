@@ -5,5 +5,5 @@ This repository implements a symbolic reasoning engine to be applied on the Drug
 
 The approach is based on matching keyword expressions in knowledge bases and reasoning operates in two steps:
 
-(I) Match derived drug combinations against those in the drug combination knowledge base
-(II) Match derived keyword expressions against those in the keyword expressions knowledge base
+- (I) Match derived drug combinations against those in the drug combination knowledge base
+- (II) Match derived keyword expressions against those in the keyword expressions knowledge base
